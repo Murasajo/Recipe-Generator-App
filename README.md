@@ -53,13 +53,13 @@ OPENAI_API_KEY=your_openai_api_key
 
 ### Run the Application
 ```sh
-streamlit run app.py
+streamlit run app1.py
 ```
 
 ## Project Structure
 ```
 recipe-generator/
-│── app.py               # Main Streamlit application
+│── app1.py               # Main Streamlit application
 │── scraped_recipes.json # JSON dataset of recipes
 │── .env                 # Environment variables
 │── requirements.txt     # List of dependencies
