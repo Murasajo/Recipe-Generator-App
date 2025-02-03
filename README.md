@@ -9,6 +9,7 @@ The **Recipe Generator** is an AI-powered web application built with Streamlit. 
 - **AI-Powered Recipe Retrieval:** Utilizes a **retrieval-augmented generation (RAG) system** to fetch relevant recipes from a database.
 - **Interactive Chat Interface:** Provides an intuitive chatbot experience for a seamless user journey.
 - **Custom UI Styling:** Styled with custom CSS for an elegant and user-friendly design.
+- **Deployment** Deployed in huggingface spaces.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -26,8 +27,8 @@ Make sure you have the following installed:
 - Virtual environment (optional but recommended)
 
 ### Clone the Repository
-```sh
-git clone https://github.com/yourusername/recipe-generator.git
+```sh[
+git clone https://github.com/Murasajo/Recipe-Generator-App.git
 cd recipe-generator
 ```
 
