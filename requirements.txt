@@ -2,6 +2,7 @@ langgraph
 langgraph-sdk
 langgraph-checkpoint-sqlite
 langsmith
+sentence-transformers
 langchain-community
 langchain-core
 langchain-openai
@@ -23,3 +24,4 @@ requests
 beautifulsoup4
 groq
 langchain-groq
+jq
