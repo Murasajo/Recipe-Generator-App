@@ -48,7 +48,6 @@ pip install -r requirements.txt
 Create a **.env** file in the project root and add your API keys:
 ```sh
 GROQ_API_KEY=your_groq_api_key
-OPENAI_API_KEY=your_openai_api_key
 ```
 
 ### Run the Application
