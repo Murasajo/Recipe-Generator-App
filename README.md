@@ -52,13 +52,13 @@ GROQ_API_KEY=your_groq_api_key
 
 ### Run the Application
 ```sh
-streamlit run app1.py
+streamlit run app.py
 ```
 
 ## Project Structure
 ```
 recipe-generator/
-│── app1.py               # Main Streamlit application
+│── app.py               # Main Streamlit application
 │── scraped_recipes.json # JSON dataset of recipes
 │── .env                 # Environment variables
 │── requirements.txt     # List of dependencies
